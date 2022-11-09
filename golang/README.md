@@ -1,3 +1,8 @@
+## Description
+
+The propose of this repository is to create a docker file contain a simple hello world in Go language.
+
+The challenge proposed was create a docker image below 2MB.
 
 ## How to run
 
